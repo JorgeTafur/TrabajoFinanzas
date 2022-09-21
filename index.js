@@ -22,8 +22,8 @@ function ingresar() {
     var contrasenia = document.getElementById('typePasswordX').value;
 
     console.log(usuario, contrasenia)
-    if ((usuario == 'u20181h213' && contrasenia == 'finanzas2022') || (usuario == 'u202014476' && contrasenia == 'finanzas2022'))
-        window.location.replace('/TrabajoIngEconomica/metodo_frances.html')
+    if ((usuario == 'u202015558' && contrasenia == 'finanzas2022') || (usuario == 'u202014476' && contrasenia == 'finanzas2022'))
+        window.location.replace('/TrabajoFinanzas/metodo_frances.html')
 
 }
 
